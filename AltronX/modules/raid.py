@@ -106,7 +106,7 @@ async def _(e):
             if int(user_id) in ALTRON:
                 await e.reply("» ᴄᴀɴ'ᴛ ʀᴀɪᴅ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ʏᴏᴜʀ ғᴀᴛʜᴇʀ", parse_mode=None, link_preview=None)
             elif int(user_id) == OWNER_ID:
-                await e.reply("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ", parse_mode=None, link_preview=None)
+                await e.reply("» ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ", parse_mode=None, link_preview=None)
             elif int(user_id) in SUDO_USERS:
                 await e.reply("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ꜱᴜᴅᴏ ᴜꜱᴇʀ", parse_mode=None, link_preview=None)
             else:
