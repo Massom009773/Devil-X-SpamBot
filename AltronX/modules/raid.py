@@ -27,7 +27,7 @@ async def spam(e):
             a = await e.client.get_entity(message)
             g = a.id
             if int(g) in ALTRON:
-                await e.reply("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀʟᴛʀᴏɴ'ꜱ ᴏᴡɴᴇʀ", parse_mode=None, link_preview=None)
+                await e.reply("» ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ ʏᴏᴜʀ ғᴀᴛʜᴇʀ", parse_mode=None, link_preview=None)
             elif int(g) in SUDO_USERS:
                 await e.reply("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ꜱᴜᴅᴏ ᴜꜱᴇʀ", parse_mode=None, link_preview=None)
             else:
