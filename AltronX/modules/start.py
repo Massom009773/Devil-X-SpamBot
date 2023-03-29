@@ -8,11 +8,11 @@ PythonButton = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
         ],
         [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/TheAltron"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/AltronChats")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/About_Devansh"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Devil_Bots_Support")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ItZxSTaR/TheBotSpam")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Devansh-Bots/Devil_X_SpamBot")
         ]
         ]
 
