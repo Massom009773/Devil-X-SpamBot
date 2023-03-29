@@ -18,7 +18,7 @@ PythonHelp = f"★ 𝙏𝙝𝙚𝘽𝙤𝙩𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 �
 async def help(event):
     if event.sender_id in SUDO_USERS:
        await event.client.send_file(event.chat_id,
-                                  "https://te.legra.ph/file/07d39b85c6cea32f15259.jpg",
+                                  "https://te.legra.ph/file/843eff08eb0733a05a24d.jpg",
                                   caption=PythonHelp,
                                   buttons=[
            [
