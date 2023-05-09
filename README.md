@@ -1,6 +1,6 @@
-<h1 align="center"><b>😈 𝙏𝙝𝙚𝘿𝙚𝙫𝙞𝙡𝙎𝙥𝙖𝙢 🔥😈</b></h1>
+<h1 align="center"><b>😈 𝘿𝙚𝙫𝙞𝙡𝙓𝙎𝙥𝙖𝙢 🔥😈</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓</h4>
 
 <p align="center"><a href="https://t.me/ItzExStar"><img src="https://te.legra.ph/file/843eff08eb0733a05a24d.jpg" width="400"></a></p>
 
