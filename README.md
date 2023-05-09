@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/ItzExStar"><img src="https://te.legra.ph/file/07d39b85c6cea32f15259.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/ItzExStar"><img src="https://te.legra.ph/file/843eff08eb0733a05a24d.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP DevilX SPAM BOT, That is the greatest pleasure we have !
