@@ -13,7 +13,7 @@ def load_plugins(plugin_name):
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
     sys.modules["AltronX.modules." + plugin_name] = load
-    print("Altron has Imported " + plugin_name)
+    print("DevilX has Imported " + plugin_name)
 
 async def edit_or_reply(event, text):
     if event.sender_id in SUDO_USERS:
