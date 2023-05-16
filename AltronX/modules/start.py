@@ -8,11 +8,11 @@ PythonButton = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
         ],
         [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/About_Devansh"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Devil_Bots_Support")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/about_meeBacha"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/innocentop")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Devansh-Bots/Devil_X_SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Massom009773/Devil_X_SpamBot")
         ]
         ]
 
@@ -34,11 +34,11 @@ async def start(event):
         BotName = AltBot.first_name
         BotId = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{BotName}](tg://user?id={BotId})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [ᴅᴇᴠᴠ ✘ ᴅᴇᴠɪʟ](https://t.me/devanshh_dubey)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝑴𝑨𝑺𝑺𝑶𝑴✘𝑭𝑬𝑬𝑳𝑰𝑵𝑮𝑺](https://t.me/innocentpapabolte)**\n\n"
         TEXT += f"» **ʙᴏᴛ ꜱᴘᴀᴍ ᴠᴇʀsɪᴏɴ :** `M3.2`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{telethon.__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                 event.chat_id,
-                "https://te.legra.ph/file/843eff08eb0733a05a24d.jpg",
+                "https://te.legra.ph/file/8eedf4c9a0b80e6d1e165.jpg",
                 caption=TEXT, 
                 buttons=PythonButton)
