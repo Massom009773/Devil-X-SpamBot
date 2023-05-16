@@ -20,7 +20,7 @@ from telethon import events
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        altron = await e.reply(f"» __Dᴇᴠɪʟ__", parse_mode=None, link_preview=None)
+        altron = await e.reply(f"» __Innocent__", parse_mode=None, link_preview=None)
         end = datetime.now()
         mp = (end - start).microseconds / 1000
         await altron.edit(f"__🤖 ᴘɪɴɢ__\n» `{mp} ms`")
@@ -38,7 +38,7 @@ async def ping(e):
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        await e.reply(f"**ᴇʀʀᴏʀ 131**: ꜱᴇʀᴠᴇʀ ɪꜱ ʀᴇꜱᴛᴀʀᴛɪɴɢ")
+        await e.reply(f"**ᴇʀʀᴏʀ 131**: PHIR CHUDNE AAYEGE JALDI HI 🤣🤣🙏")
         try:
             await MK1.disconnect()
         except Exception:
