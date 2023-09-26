@@ -1,6 +1,6 @@
 {
-    "name": "PythonX HERE.",
-    "logo": "https://te.legra.ph/file/07d39b85c6cea32f15259.jpg",
+    "name": "MASSOM BACHA.",
+    "logo": "https://telegra.ph/file/fc4ca6f12cdc3d03ef6ed.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/Devansh-Bots/Devil-X-SpamBot",
+    "repository": "https://github.com/Massom009773/Devil-X-SpamBot",
     "env": {
      "CMD_HNDLR": {
             "description": "Custom command handler.",
